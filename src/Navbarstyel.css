@@ -1,0 +1,41 @@
+.nav_container{
+    
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.nav_content{
+    padding: 0vh 4vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background:linear-gradient(60deg,black,grey);
+    width: 100%;
+}
+
+.nav_links ul{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1280px;
+    gap: 40px;
+    font-size: 3vh;
+    list-style: none;
+}
+
+.nav_links a{
+ text-decoration: none;
+ color: #fff;
+
+}
+
+.nav_links a:hover{
+    
+    color: grey;
+   
+}

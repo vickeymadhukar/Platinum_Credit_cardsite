@@ -1,0 +1,115 @@
+.page1{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(8, 8, 8);
+    display: flex;
+    justify-content: space-evenly;
+}
+.page-content{
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 50%;
+    
+}
+.heading{
+    position:absolute;
+    width: 100%;
+    top: 10%;
+    left: 10%;
+    
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.heading h1{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    font-size: 8vh;
+    color: rgb(149, 149, 149);
+}
+.heading p{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    color: #fff;
+    font-size: 3vh;
+}
+.platinum{
+    width: 50%;
+    display:flex;
+    align-items: center;
+}
+
+.page2{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    align-items: center;
+}
+#Platinum_card {
+    position: absolute;
+  }
+.upper2{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 30%;
+    width: 1024px;
+}
+.lower2{
+height: 70%;
+width: 1280px;
+gap:10px;
+display: flex;
+justify-content: space-between;
+
+align-items: center;
+}
+.page3{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    align-items: center;
+    background:linear-gradient(-60deg,grey,black) ;
+}
+
+.upper3{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 20%;
+    width: 500Px;
+}
+.lower3{
+
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+overflow: hidden;
+
+}
+.swiper{
+    padding-top: 350px;
+    color: green;
+    height: 100%;
+    width: 500px;
+   
+}
