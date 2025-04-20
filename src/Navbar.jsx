@@ -29,6 +29,7 @@ const Navbar = () => {
         <div className="nav_content">
             <div className='logo_name'>
                 <img id='logo' src="./logo/master.png" alt="" style={{height:"100px",width:"100px"}} />
+                <h1>Platinum</h1>
             </div>
             <div className="nav_links">
             <ul>

@@ -16,6 +16,16 @@
     background:linear-gradient(60deg,black,grey);
     width: 100%;
 }
+.logo_name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo_name h1{
+    font-weight: 100;
+color: #fff;
+}
 
 .nav_links ul{
     color: white;

@@ -87,9 +87,12 @@ useGSAP(()=>{
             <h1>Platinum :<span style={{color:"white",fontSize:"6vh"}}>
             Shaping your Financial destiny
               </span></h1>
-              <p>Keep you personal money safe and secure </p>
-      <Buttomcomp text="Get Start"/>
+              <p>Keep you personal money and business finances at peace <br /> Shape the future of your financial decision</p>
+              <div className='but'>
 
+            <Buttomcomp text="Get Started"/>
+              </div>
+         <div><h3>Over 500+ people trusted Platinum in the last week</h3></div>
          </div>
        </div>
        <div className="platinum">
@@ -104,16 +107,19 @@ useGSAP(()=>{
 
       <div className="upper2">
       <h1>LEVEL UP YOUR FINANCIAL GAME</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores magni quidem culpa deleniti animi praesentium iusto sunt, illo optio voluptas? Accusantium, quibusdam blanditiis? Aliquam molestiae nihil nulla eaque repellat optio.
-        Lorem ipsum dolor, sit amet consectetur s, corporis accusantium dolorem libero quo itaque rem tempora minus. Consequatur, cupiditate.
+      <p>Discover actionable strategies and tips to enhance your financial prowess.
+Elevate your money management skills and pave the way to a more prosperous future.
+Whether you're just starting your financial journey or looking to refine your existing knowledge, the right guidance can make all the difference.
+Learn how to budget smarter, invest wisely, reduce debt, and build lasting wealth.
+
       </p>
-      <Buttomcomp text="hello"/>
+      <Buttomcomp text="See all"/>
       </div>
       
        <div className="lower2">
-<Card  head="part2" text='ahrvfavrf;qer pfgt2woergtfweyrLorem ipsum dolor, sit amet consectetur s, corporis accusantium dolorem libero quo itaque rem tempora minus. Consequatur, cupiditate'/>
-<Card head="part2" text='ahrvfavrf;qer pfgt2woergtfweyrLorem ipsum dolor, sit amet consectetur s, corporis accusantium'/>
-<Card head="part2" text='ahrvfavrf;qer pfgt2woergtfweyrLorem ipsum dolor, sit amet consectetur s, corporis accusantium'/>
+<Card  head="Platinum" text='Simplify your wallet with the ability to manage multiple credit cards Providing a convenient , all-in-one solution for streamlined financial control and management'/>
+<Card head="Friend & family" text='Transfer money to friend and family free of charge and at lightning speed'/>
+<Card head="25+ Currencis" text='25+ other currencies in one app no need to carry them in your pocket'/>
 
        </div>
 
