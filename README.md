@@ -31,7 +31,8 @@ _Smooth scroll-based animations powered by GSAP ScrollTrigger._
 
 ---
 
-
+## website Preview
+ https://vickeymadhukar.github.io/Platinum_Credit_cardsite/
 ## 🚀 Getting Started
 
 ```bash
