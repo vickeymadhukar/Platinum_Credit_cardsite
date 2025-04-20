@@ -2,8 +2,7 @@
 
 A modern and elegant frontend design for a **Platinum financial card landing page**, built using **React.js** and animated with **GSAP + ScrollTrigger**.
 
-![Website Preview](./assets/preview.png)
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/5d571573-1a0a-40b2-aa0e-4c39449aae9d)
 
 ---
 
@@ -19,11 +18,10 @@ A modern and elegant frontend design for a **Platinum financial card landing pag
 
 ## 🎥 Scroll Animation Preview
 
-![Scroll Animation Example](./assets/scroll-trigger-demo.gif)
-
 _Smooth scroll-based animations powered by GSAP ScrollTrigger._
 
----
+---![deb-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/349d9893-56d3-41ad-8cbb-a684445a0185)
+
 
 ## 🛠️ Tech Stack
 
@@ -33,13 +31,6 @@ _Smooth scroll-based animations powered by GSAP ScrollTrigger._
 
 ---
 
-## 📸 Screenshots
-
-| Desktop View                                     | Card Zoom Animation                            |
-| ------------------------------------------------ | ---------------------------------------------- |
-| ![Desktop Screenshot](./assets/desktop-view.png) | ![Card Animation](./assets/card-animation.gif) |
-
----
 
 ## 🚀 Getting Started
 
