@@ -118,8 +118,8 @@ Learn how to budget smarter, invest wisely, reduce debt, and build lasting wealt
       
        <div className="lower2">
 <Card  head="Platinum" text='Simplify your wallet with the ability to manage multiple credit cards Providing a convenient , all-in-one solution for streamlined financial control and management'/>
-<Card head="Friend & family" text='Transfer money to friend and family free of charge and at lightning speed'/>
-<Card head="25+ Currencis" text='25+ other currencies in one app no need to carry them in your pocket'/>
+<Card head="Friend & family" text='Transfer money to friend and family free of charge and at lightning speed' img='./logo/family.png'/>
+<Card head="25+ Currencis" text='25+ other currencies in one app no need to carry them in your pocket' img='./logo/worldmap.png'/>
 
        </div>
 
